@@ -36,8 +36,11 @@
      <a target="_blank" href="https://github.com/consultoria-fleeting/api-dashboard">
         <li>API DashBoard(Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
-         <a target="_blank" href="https://github.com/consultoria-fleeting/api-register">
+    <a target="_blank" href="https://github.com/consultoria-fleeting/api-register">
         <li>API Register (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+    </a>
+      <a target="_blank" href="https://github.com/consultoria-fleeting/nest-serverless-integrations">
+        <li>API - INTEGRATIONS (SERVERLESS COM NEST) (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
    <a target="_blank" href="https://github.com/consultoria-fleeting/api-gateway">
         <li>API GateWay (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
