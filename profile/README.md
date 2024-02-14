@@ -70,6 +70,9 @@
     <a target="_blank" href="https://github.com/consultoria-fleeting/api-painel-crm">
         <li>API Painel CRM (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
+    <a target="_blank" href="https://github.com/consultoria-fleeting/api-fleeting-university">
+        <li>API Universidade Fleeting (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+    </a>
   </ul>
 
 
