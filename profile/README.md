@@ -28,6 +28,9 @@
     <a target="_blank" href="https://github.com/consultoria-fleeting/painel-crm-front">
         <li>Frontend - Painel CRM (Next JS) <img style="height: 20px; " src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></li>
     </a>
+    <a target="_blank" href="https://github.com/consultoria-fleeting/api-checklist">
+        <li>API Checklist (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+    </a>
 </ul>
   
 <h3>BACKEND - REFACTOR</h3>
@@ -57,10 +60,7 @@
     </a>
     <a target="_blank" href="https://github.com/consultoria-fleeting/api-supply">
         <li>API Supply(Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
-    </a>
-     <a target="_blank" href="https://github.com/consultoria-fleeting/api-checklist">
-        <li>API Checklist (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
-    </a>
+    </a>   
     <a target="_blank" href="https://github.com/consultoria-fleeting/api-telemetria">
         <li>API Telemetria (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
@@ -72,6 +72,9 @@
     </a>
     <a target="_blank" href="https://github.com/consultoria-fleeting/api-fleeting-university">
         <li>API Universidade Fleeting (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+    </a>
+    <a target="_blank" href="https://github.com/consultoria-fleeting/api-checklist-new">
+        <li>API Checklist (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
   </ul>
 
