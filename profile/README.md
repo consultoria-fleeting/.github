@@ -74,7 +74,7 @@
         <li>API Universidade Fleeting (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
     <a target="_blank" href="https://github.com/consultoria-fleeting/api-checklist-new">
-        <li>API Checklist (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+        <li>API Check List NEW!(Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
   </ul>
 
