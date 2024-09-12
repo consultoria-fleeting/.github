@@ -42,11 +42,11 @@
     <a target="_blank" href="https://github.com/consultoria-fleeting/api-register">
         <li>API Register (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
-      <a target="_blank" href="https://github.com/consultoria-fleeting/nest-serverless-jobs">
+      <a target="_blank" href="https://github.com/consultoria-fleeting/nest-serverless-integrations">
         <li>API Integrations (Serverless com Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
     </a>
-      <a target="_blank" href="https://github.com/consultoria-fleeting/nest-serverless-integrations">
+      <a target="_blank" href="https://github.com/consultoria-fleeting/nest-serverless-jobs">
         <li>API Jobs (Serverless com Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
    <a target="_blank" href="https://github.com/consultoria-fleeting/api-gateway">
