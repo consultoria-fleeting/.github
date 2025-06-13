@@ -11,7 +11,6 @@
     <a target="_blank" href="https://github.com/consultoria-fleeting/api-carsharing">
         <li>API Carsharing (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
-
   </ul>
   <h3>FRONTEND - LEGADO</h3>
 
