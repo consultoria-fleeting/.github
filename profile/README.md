@@ -4,8 +4,7 @@
 <h2>Projetos</h2>
 
 <h3> BACKEND - LEGADO <h3>
-  <ul>
-  
+  <ul>  
     <a target="_blank" href="https://github.com/consultoria-fleeting/legado-odometer">
         <li>API Odometer (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
