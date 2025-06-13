@@ -6,7 +6,7 @@
 <h3> BACKEND - LEGADO <h3>
   <ul>  
     <a target="_blank" href="https://github.com/consultoria-fleeting/legado-odometer">
-        <li>API Odometer (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+        <li>API Odometer (Nest JS) <img style="height: 20px;"src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
     <a target="_blank" href="https://github.com/consultoria-fleeting/api-carsharing">
         <li>API Carsharing (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
